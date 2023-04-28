@@ -1,2 +1,2 @@
 # ECG-quality-assessment
-Noise and clean data classification
+This is a network on noisy ECG and clean ECG classification, implemented in Python.
